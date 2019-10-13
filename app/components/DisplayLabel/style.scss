@@ -1,0 +1,27 @@
+.display-label {
+  margin: 0;
+  font: inherit;
+  vertical-align: baseline;
+  min-width: 90px;
+  min-height: 10px;
+  text-decoration: none;
+  cursor: pointer;
+  border: 1px solid transparent;
+  padding: 3px 0;
+  white-space: nowrap;
+  text-align: center;
+  box-sizing: border-box;
+  height: auto;
+  float: none;
+  border-radius: 2px;
+  font-size: 85%;
+  transform: translateY(-1px);
+  color: #FFF;
+  padding :5px 5px;
+}
+.display-label-active{
+  background-color: #5fba7d;
+}
+.display-label-inactive{
+  background-color: #cccccc;
+}
